@@ -1,0 +1,2 @@
+# ansible-ide
+Ansible IDE
