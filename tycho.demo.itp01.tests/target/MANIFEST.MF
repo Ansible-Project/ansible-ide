@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Bundle-SymbolicName: tycho.demo.itp01.tests
-Bundle-Name: Tests Plug-in
-Bundle-Version: 1.0.0.201509160506
-Require-Bundle: org.junit,tycho.demo.itp01;bundle-version="1.0.0",org.
- eclipse.ui
-Bundle-ManifestVersion: 2
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
-
